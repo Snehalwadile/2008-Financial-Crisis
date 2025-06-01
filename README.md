@@ -17,3 +17,20 @@ This project provides a simplified explanation and exploratory analysis of the 2
 - Data sources: FRED, Yahoo Finance, Kaggle
 
 ## 📁 Project Structure
+2008-Financial-Crisis-Analysis/
+├── notebooks/
+│ └── crisis_analysis.ipynb
+├── data/
+│ └── housing_prices.csv
+│ └── sp500_2006_2010.csv
+├── charts/
+│ └── housing_vs_unemployment.png
+├── README.md
+└── LICENSE
+
+## 💡 What You’ll Learn
+- The chain of events that led to the global meltdown
+- How financial indicators behave in a crisis
+- A starting point for modeling financial risk
+
+---
