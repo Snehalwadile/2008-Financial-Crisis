@@ -1,4 +1,4 @@
-# 🏦 2008 Financial Crisis – A Data-Driven Overview
+# 🏦 2008 Financial Crisis – A Data-Driven Overview and Analysis
 
 This project provides a simplified explanation and exploratory analysis of the 2008 Financial Crisis, combining financial history with real data analysis. It covers what happened, why it happened, and includes code to analyze housing, stock market, and economic indicators from that period.
 
